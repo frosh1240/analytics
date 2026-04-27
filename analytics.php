@@ -13,7 +13,7 @@ class Analytics extends Module
         $this->name = 'analytics';
         $this->tab = 'front_office_features';
         $this->version = '1.0.0';
-        $this->author = 'PrestaShop';
+        $this->author = 'Carlos Moreno';
         $this->need_instance = 0;
 
         parent::__construct();
